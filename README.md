@@ -1,6 +1,6 @@
 
-### Olá eu sou Jonatah Paz 👋 Seja bem vindo ao meu perfil!
-### Stats e Tecnologias
+### Hi i'm Jonatah Paz 👋 You're welcome!
+### Stats and Techs
 
 
 ![Jonatah GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatahpaz&show_icons=true&theme=dark)
